@@ -4,13 +4,13 @@
 
 Number and name of feature: Feature #1: Display images
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: _____ allthe features
 
-Start time: _____
+Start time: _____ 3hour
 
-Finish time: _____
+Finish time: _____2:00
 
-Actual time needed to complete: _____
+Actual time needed to complete: _____4:37pm
 
 
 
